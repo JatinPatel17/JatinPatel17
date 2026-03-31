@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm [Your Full Name] 👋
+# Hi there, I'm [jatin patel] 👋
 
 🎓 B.Tech – [int mtech(AI)] | VIT Bhopal University  
 📅 Year: First Year | Expected Graduation: [2030]  
